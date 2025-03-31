@@ -1,7 +1,6 @@
-name: [Check-dist]/[Check-dist]
+name: Check dist/
 
-
-on: can not read an implicit mapping pair; a colon is missed
+on:
   push:
     branches:
       - main
